@@ -1,2 +1,2 @@
-# learning-bootstrap-museum-of-candy
+# practicing-bootstrap-museum-of-candy
 Landing page using Bootstrap 4
